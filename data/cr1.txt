@@ -1,0 +1,63 @@
+Compte Rendu Hospitalier d'Anatomopathologie
+Patient : Mme. Jeanne Dupont
+Date de naissance : 15/03/1975
+Numéro de dossier : 123456
+Date de prélèvement : 05/06/2024
+Date de réception : 06/06/2024
+Date du rapport : 10/06/2024
+
+Informations Cliniques
+Motif de la biopsie : Masse palpable au niveau du sein droit.
+Antécédents médicaux : Aucune antécédent notable.
+Examen clinique : Masse suspecte détectée au sein droit.
+
+Description Macroscopique
+Échantillon reçu : Biopsie au trocart de la masse tumorale du sein droit.
+Dimensions de l'échantillon : 1.2 x 1.0 x 0.8 cm
+Aspect macroscopique : Tissu de consistance ferme, couleur blanchâtre.
+
+Description Microscopique
+Les lames histologiques montrent des sections de tissu mammaire avec les caractéristiques suivantes :
+
+Architecture cellulaire :
+
+Présence de structures glandulaires atypiques.
+Hyperplasie canalaire avec atypies.
+Zones de nécrose tumorale.
+Cytologie :
+
+Cellules épithéliales atypiques de taille variable, avec noyaux hyperchromatiques et irréguliers.
+Index mitotique élevé.
+Présence de quelques figures mitotiques anormales.
+Stroma :
+
+Réaction desmoplastique marquée.
+Infiltrat lymphocytaire modéré.
+Marges de résection :
+
+Les marges ne sont pas évaluables dans cette biopsie au trocart.
+Immunohistochimie
+Les tests immunohistochimiques ont été réalisés pour les marqueurs suivants :
+
+Récepteurs hormonaux :
+
+Récepteur aux œstrogènes (ER) : Positif (80% des cellules tumorales)
+Récepteur à la progestérone (PR) : Positif (70% des cellules tumorales)
+HER2/neu :
+
+Expression HER2 : Négatif (Score 1+)
+Ki-67 :
+
+Index de prolifération Ki-67 : 30%
+Conclusion
+Les caractéristiques morphologiques et immunohistochimiques de la tumeur sont compatibles avec un carcinome mammaire infiltrant de type non spécifique (NST). La tumeur exprime les récepteurs hormonaux ER et PR, et est négative pour HER2. L'index de prolifération Ki-67 est modéré.
+
+Classification TNM :
+T : Biopsie ne permet pas de déterminer la taille exacte de la tumeur.
+N : Évaluation des ganglions lymphatiques non réalisée.
+M : Absence de métastases documentées à ce stade.
+
+Recommandations
+Il est recommandé de procéder à une évaluation complète par imagerie et à une discussion en réunion de concertation pluridisciplinaire (RCP) pour décider de la prise en charge thérapeutique appropriée.
+
+Anatomopathologiste : Dr. Marie Lefevre

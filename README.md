@@ -6,7 +6,11 @@ Detecter Lateralité dans CRs
 ## TODO
 
 - [x] Generate false CR
-- [ ] craft Laterality detection v1
+- [x] craft Laterality detection v1
+- [ ] Generate type story
+- [ ] Extract test function
+- [ ] appariement function
+- [ ] analyze function
 
 ## Strat
 
@@ -17,6 +21,7 @@ Detecter Lateralité dans CRs
 2. lazy way
   * catch laterality
   * check if its associate with an event
+  * compare list of event:laterality to spot inconstistancy
 
 
 ## Notes

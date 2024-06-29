@@ -1,0 +1,46 @@
+
+Patient : Mme. Sophie Dupont
+Date de naissance : 18/03/1980
+Numéro de dossier : 123456
+Date de début de la radiothérapie : 01/06/2024
+Date de fin de la radiothérapie : 29/06/2024
+
+Indication
+Cancer du sein droit, type carcinome canalaire infiltrant, traité par tumorectomie avec marges saines. Indication de radiothérapie adjuvante pour réduire le risque de récidive locale.
+
+Protocole de Traitement
+Technique : Radiothérapie externe conformationnelle 3D (3D-CRT)
+Énergie : Photons de 6 MV
+Fractionnement : 25 fractions
+Dose totale : 50 Gy
+Dose par fraction : 2 Gy
+Boost tumoral : 10 Gy en 5 fractions de 2 Gy sur le lit tumoral
+Plan de Traitement
+Simulation et Planification :
+
+Date de simulation : 25/05/2024
+Simulation par scanner en décubitus dorsal avec immobilisation par coussin personnalisé.
+Définition des volumes cibles (CTV, PTV) et des organes à risque (OAR) selon les recommandations de l'ESTRO.
+Contourage du sein droit, des marges de sécurité et du lit tumoral pour le boost.
+Plan de traitement optimisé avec vérification des doses aux OAR (poumons, cœur).
+Traitement :
+
+Traitement réalisé quotidiennement du lundi au vendredi, avec vérification des paramètres techniques avant chaque séance.
+Port-films hebdomadaires pour vérifier la position et ajustements si nécessaire.
+Suivi clinique hebdomadaire par l'oncologue radiothérapeute.
+Tolérance et Effets Secondaires
+Tolérance : Bonne tolérance générale du traitement.
+Effets secondaires observés :
+Érythème cutané modéré au niveau du sein droit, géré par application de crèmes hydratantes et anti-inflammatoires.
+Fatigue légère, non limitante pour les activités quotidiennes de la patiente.
+Pas de signes de pneumopathie radique ou de toxicité cardiaque.
+Évaluation Post-Traitement
+Date de la dernière séance : 29/06/2024
+Examen clinique post-traitement : Absence de masses palpables ou de signes cliniques de récidive.
+Suivi : Consultation de suivi programmée à 6 semaines post-radiothérapie pour évaluer la tolérance à moyen terme et les résultats du traitement.
+Recommandations
+Surveillance clinique et radiologique régulière selon le protocole standard pour cancer du sein.
+La patiente est informée des signes à surveiller et des mesures à prendre en cas d'effets secondaires persistants ou nouveaux symptômes.
+Oncologue Radiothérapeute : Dr. Isabelle Dupuis
+Signature : [Signature]
+Date : 29/06/2024

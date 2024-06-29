@@ -7,8 +7,8 @@ Detecter Lateralité dans CRs
 
 - [x] Generate false CR
 - [x] craft Laterality detection v1
-- [ ] Generate type story
-- [ ] Extract test function
+- [x] Generate type story
+- [ ] Extract text function
 - [ ] appariement function
 - [ ] analyze function
 

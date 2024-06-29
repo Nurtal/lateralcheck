@@ -1,0 +1,41 @@
+Patient : Mme. Sophie Dupont
+Date de naissance : 18/03/1980
+Numéro de dossier : 123456
+Date de la consultation : 29/06/2024
+
+Motif de Consultation
+Présence d'une masse palpable au niveau du sein gauche.
+
+Histoire de la Maladie
+Mme. Sophie Dupont, âgée de 44 ans, se présente en consultation pour une masse découverte au niveau du sein gauche lors d'un auto-examen il y a environ deux semaines. La masse est indolore et non mobile. Aucun antécédent familial de cancer du sein n'est rapporté. La patiente n'a pas d'antécédents médicaux notables et ne prend pas de médicaments régulièrement.
+
+Examen Clinique
+À l'examen physique :
+
+Inspection : Aucune déformation visible du sein gauche, peau de texture normale, sans signes de rétraction ou de peau d'orange.
+Palpation : Masse palpable de 2 cm environ, située dans le quadrant supéro-externe du sein gauche, non mobile, de consistance ferme et indolore. Pas d'adénopathies axillaires palpables.
+Diagnostic Différentiel
+Adénofibrome
+Kyste simple
+Lipome
+Néoplasie maligne (carcinome)
+Plan de Gestion
+Imagerie :
+
+Mammographie bilatérale pour évaluer la nature de la masse et détecter toute lésion non palpable.
+Échographie mammaire pour une meilleure caractérisation de la masse (solide vs liquide).
+Biopsie :
+
+Biopsie à l'aiguille fine (BAF) ou biopsie par forage (core biopsy) de la masse du sein gauche afin de procéder à une analyse histopathologique et déterminer la nature bénigne ou maligne de la lésion.
+Suivi :
+
+Consultation de suivi après réception des résultats de la biopsie pour discuter des résultats et des éventuelles options thérapeutiques.
+Recommandations :
+
+La patiente est informée de la procédure et des raisons de la biopsie.
+Elle est rassurée sur la fréquence de masses bénignes mais également sur la nécessité d'une confirmation histologique.
+Conclusion
+Une masse indolore de 2 cm, non mobile et ferme, a été découverte au sein gauche de Mme. Sophie Dupont. Des investigations supplémentaires incluant une mammographie, une échographie et une biopsie de la masse ont été prescrites pour déterminer la nature de la lésion.
+
+Médecin Consultant : Dr. Jean Martin
+Signature : [Signature]

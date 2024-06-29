@@ -1,0 +1,48 @@
+Compte Rendu d'Analyse Anatomopathologique
+Patient : Mme. Sophie Dupont
+Date de naissance : 18/03/1980
+Numéro de dossier : 123456
+Date de la biopsie : 05/07/2024
+Date de réception des échantillons : 06/07/2024
+Numéro du rapport : 789012
+
+Description Macroscopique
+Quatre carottes de tissu mammaire mesurant chacune entre 1,5 et 2 cm de longueur, d'aspect fibreux et blanc-grisâtre, ont été reçues dans un flacon de formol tamponné. Les échantillons sont bien fixés et découpés pour l'inclusion en paraffine.
+
+Description Microscopique
+Carottes 1 et 2 :
+
+Tissu mammaire infiltré par des cellules tumorales disposées en travées et en amas, avec des atypies cytonucléaires marquées.
+Présence de mitoses fréquentes et de zones de nécrose tumorale.
+Invasion stromale et des canaux mammaires adjacents observée.
+Stroma desmoplastique autour des foyers tumoraux.
+Carottes 3 et 4 :
+
+Tissu mammaire avec des structures glandulaires anormales et des cellules présentant des atypies nucléaires modérées à sévères.
+Pas d'évidence de microcalcifications.
+Infiltration lymphovasculaire focale notée.
+Immunohistochimie
+Récepteurs hormonaux :
+
+Récepteur aux œstrogènes (ER) : Positif (80% des cellules tumorales)
+Récepteur à la progestérone (PR) : Positif (70% des cellules tumorales)
+HER2 :
+
+Score HER2 : 1+ (Négatif)
+Ki-67 :
+
+Index de prolifération Ki-67 : 30%
+Conclusion
+Les échantillons de biopsie du sein gauche montrent la présence d'un carcinome mammaire infiltrant de type non spécifique (anciennement appelé carcinome canalaire infiltrant) avec des atypies cytonucléaires marquées, une invasion stromale et des structures glandulaires anormales.
+
+Facteurs Pronostiques
+Positivité des récepteurs hormonaux (ER et PR) suggérant une sensibilité potentielle à la thérapie hormonale.
+HER2 négatif.
+Index de prolifération élevé (Ki-67 : 30%) indiquant une activité mitotique significative.
+Recommandations :
+
+Discussion en réunion de concertation pluridisciplinaire (RCP) pour planification du traitement adjuvant.
+Considération de la chimiothérapie et de la thérapie hormonale en fonction des résultats.
+Pathologiste : Dr. Pierre Leblanc
+Signature : [Signature]
+Date : 08/07/2024

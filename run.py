@@ -1,3 +1,4 @@
+from numpy.core.function_base import logspace
 import pandas as pd
 import re
 import spacy
@@ -64,10 +65,9 @@ def appariement(sentence:str, nlp, target_list:list):
     return adjectives_and_nouns
 
 
-
-
-def extract_changes(apparied_data:list):
-    """ """
+def extract_changes(apparied_data:list) -> dict:
+    """Extract changes of orientation from apparied data, return organ with changed orientation
+    and the list of associated orientation as dict """
 
     element_to_position = {}
     for elt in apparied_data:
@@ -86,12 +86,30 @@ def extract_changes(apparied_data:list):
         
 
     
+def display_changes(changes:dict, data:dict) -> pd.DataFrame:
+    """Generate a pandas dataframe where each row correspond to:
+        ORGAN / ORIENTATION / DOC / SENTENCE 
+    """
+
+    # craft data
+    vector_list = []
+    for o in changes:
+        laterallity_list = changes[o]
+        for doc in data:
+            for sentence in data[doc]:
+                infos = data[doc][sentence]
+                for elt in infos:
+                    if o == elt[1] and elt[0] in laterallity_list:
+                        vector = {"ORGAN":o, "ORIENTATION":elt[0], "DOC":doc, "SENTENCE":sentence}
+                        if vector not in vector_list:
+                            vector_list.append(vector)
+    # export in dataframe
+    return pd.DataFrame(vector_list)
 
 
 
-
-def run(doc_list):
-    """ """
+def run(doc_list:list, result:str):
+    """ Main function, scan documents in doc list, write results in result file """
 
     # init
     nlp = spacy.load("fr_core_news_sm")
@@ -113,24 +131,29 @@ def run(doc_list):
     ]
 
     # Extract informations
+    doc_to_sentence_to_infos = {}
     for doc in doc_list:
+        doc_to_sentence_to_infos[doc] = {}
         with open(doc) as f: s = f.read()
         text_list = extract_text(s)
         for text in text_list:
             sentence_list += spot_laterality(text, target_list)
         for sentence in sentence_list:
-            apparied_data += appariement(sentence, nlp, target_list)
+            infos = appariement(sentence, nlp, target_list)
+            doc_to_sentence_to_infos[doc][sentence] = infos
+            apparied_data += infos
 
     # Analyse information
     element_to_changes = extract_changes(apparied_data)
-    print(element_to_changes)
+    analysis = display_changes(element_to_changes, doc_to_sentence_to_infos)
 
-
+    # save
+    analysis.to_csv(result, index=False)
 
 
 
 if __name__ == "__main__":
 
     text_list = glob.glob('data/scenar1/*.txt')
-    run(text_list)
+    run(text_list, "changements.csv")
 

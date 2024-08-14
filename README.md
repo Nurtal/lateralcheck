@@ -12,7 +12,7 @@ Detecter Lateralité dans CRs
 - [x] appariement function
 - [x] extract changes
 - [x] analyze function
-- [ ] restitution
+- [x] restitution
 
 ## Strat
 

@@ -108,7 +108,44 @@ def display_changes(changes:dict, data:dict) -> pd.DataFrame:
 
 
 
-def run(doc_list:list, result:str):
+def parse_result(result_file, element_to_changes, log_file):
+    """ """
+
+    # loop over element to scan
+    logs = []
+    for organ in element_to_changes:
+
+        # load laterality to doc
+        laterality_to_doc = {}
+        df = pd.read_csv(result_file)
+        df = df[df['ORGAN'] == organ]
+        for index, row in df.iterrows():
+            doc = row['DOC']
+            orientation = row['ORIENTATION']
+            if orientation not in laterality_to_doc:
+                laterality_to_doc[orientation] = [doc]
+            else:
+                if doc not in laterality_to_doc[orientation]:
+                    laterality_to_doc[orientation].append(doc)
+
+        # craft logs
+        sentence = f"[*] Attention ! Changement d'orientation détécté pour l'élément {organ} :\n"
+        for orientation in laterality_to_doc:
+            sentence += f"[+]{orientation} dans les documents :\n"
+            for doc in laterality_to_doc[orientation]:
+                sentence+= f"\t- {doc}\n"
+        logs.append(sentence)
+
+    # save logs
+    output_data = open(log_file, 'w')
+    for sentence in logs:
+        output_data.write(sentence)
+        output_data.write("-"*45)
+    output_data.close()
+
+
+
+def run(doc_list:list, result:str, logs:str):
     """ Main function, scan documents in doc list, write results in result file """
 
     # init
@@ -150,10 +187,13 @@ def run(doc_list:list, result:str):
     # save
     analysis.to_csv(result, index=False)
 
+    # generate logs
+    parse_result(result, element_to_changes, logs)
+
 
 
 if __name__ == "__main__":
 
     text_list = glob.glob('data/scenar1/*.txt')
-    run(text_list, "changements.csv")
+    run(text_list, "changements.csv", "changements.log")
 

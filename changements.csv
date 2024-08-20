@@ -1,0 +1,23 @@
+ORGAN,ORIENTATION,DOC,SENTENCE
+sein,gauche,data/scenar1/cr2.txt,la patiente a été installée en position décubitus dorsal avec le bras gauche levé pour dégager le sein gauche
+sein,gauche,data/scenar1/cr2.txt,introduction de l'aiguille de biopsie dans le sein gauche sous guidage échographique
+sein,gauche,data/scenar1/cr1.txt,la patiente a été installée en position décubitus dorsal avec le bras gauche levé pour dégager le sein gauche
+sein,gauche,data/scenar1/cr1.txt,introduction de l'aiguille de biopsie dans le sein gauche sous guidage échographique
+sein,gauche,data/scenar1/cr1.txt,"sophie dupont, âgée de 44 ans, se présente en consultation pour une masse découverte au niveau du sein gauche lors d'un auto-examen il y a environ deux semaines"
+sein,gauche,data/scenar1/cr1.txt,biopsie à l'aiguille fine (baf) ou biopsie par forage (core biopsy) de la masse du sein gauche afin de procéder à une analyse histopathologique et déterminer la nature bénigne ou maligne de la lésion
+sein,gauche,data/scenar1/cr1.txt,"une masse indolore de 2 cm, non mobile et ferme, a été découverte au sein gauche de mme"
+sein,gauche,data/scenar1/cr3.txt,la patiente a été installée en position décubitus dorsal avec le bras gauche levé pour dégager le sein gauche
+sein,gauche,data/scenar1/cr3.txt,introduction de l'aiguille de biopsie dans le sein gauche sous guidage échographique
+sein,gauche,data/scenar1/cr3.txt,"sophie dupont, âgée de 44 ans, se présente en consultation pour une masse découverte au niveau du sein gauche lors d'un auto-examen il y a environ deux semaines"
+sein,gauche,data/scenar1/cr3.txt,biopsie à l'aiguille fine (baf) ou biopsie par forage (core biopsy) de la masse du sein gauche afin de procéder à une analyse histopathologique et déterminer la nature bénigne ou maligne de la lésion
+sein,gauche,data/scenar1/cr3.txt,"une masse indolore de 2 cm, non mobile et ferme, a été découverte au sein gauche de mme"
+sein,gauche,data/scenar1/cr3.txt,"les échantillons de biopsie du sein gauche montrent la présence d'un carcinome mammaire infiltrant de type non spécifique (anciennement appelé carcinome canalaire infiltrant) avec des atypies cytonucléaires marquées, une invasion stromale et des structures glandulaires anormales."
+sein,gauche,data/scenar1/cr4.txt,la patiente a été installée en position décubitus dorsal avec le bras gauche levé pour dégager le sein gauche
+sein,gauche,data/scenar1/cr4.txt,introduction de l'aiguille de biopsie dans le sein gauche sous guidage échographique
+sein,gauche,data/scenar1/cr4.txt,"sophie dupont, âgée de 44 ans, se présente en consultation pour une masse découverte au niveau du sein gauche lors d'un auto-examen il y a environ deux semaines"
+sein,gauche,data/scenar1/cr4.txt,biopsie à l'aiguille fine (baf) ou biopsie par forage (core biopsy) de la masse du sein gauche afin de procéder à une analyse histopathologique et déterminer la nature bénigne ou maligne de la lésion
+sein,gauche,data/scenar1/cr4.txt,"une masse indolore de 2 cm, non mobile et ferme, a été découverte au sein gauche de mme"
+sein,gauche,data/scenar1/cr4.txt,"les échantillons de biopsie du sein gauche montrent la présence d'un carcinome mammaire infiltrant de type non spécifique (anciennement appelé carcinome canalaire infiltrant) avec des atypies cytonucléaires marquées, une invasion stromale et des structures glandulaires anormales."
+sein,droit,data/scenar1/cr4.txt,"cancer du sein droit, type carcinome canalaire infiltrant, traité par tumorectomie avec marges saines"
+sein,droit,data/scenar1/cr4.txt,"contourage du sein droit, des marges de sécurité et du lit tumoral pour le boost"
+sein,droit,data/scenar1/cr4.txt,"érythème cutané modéré au niveau du sein droit, géré par application de crèmes hydratantes et anti-inflammatoires"
